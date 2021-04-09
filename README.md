@@ -20,13 +20,14 @@
 
 - 🔭 I’m currently working on ...
   - JavaScript / TypeScript
-  - React.js / Next.js / Gatsby ...
-  - Node.js / Express
+  - React.js 
+  - Next.js / Gatsby / CRA
+  - Node.js 
+  - Express
   - Redux / Redux Saga 
   - Functional Programming
   - Related Web Knowledges
-  - Also C++
-  
+  - Cloud: Netlify, AWS  
 <!--
 **hayoung0Lee/hayoung0Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
