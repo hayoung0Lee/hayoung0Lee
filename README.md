@@ -22,12 +22,7 @@
   - JavaScript / TypeScript
   - Node.js 
   - React.js 
-  - Next.js / Gatsby / CRA
-  - Express
-  - Redux / Redux Saga 
-  - Cloud: Netlify, AWS  
-  - Functional Programming
-  - Related Web Knowledges
+  - Next.js
 
 <!--
 **hayoung0Lee/hayoung0Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
