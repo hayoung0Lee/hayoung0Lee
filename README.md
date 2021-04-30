@@ -2,27 +2,30 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayoung0Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/hayoung0Lee?style=social)
 
-- [Visit my Github blog](https://hayoung0lee.github.io/)
-
-- Korean Blog
-    <a href="https://mytutorials.tistory.com/">
-        <img 
+- <a href="https://mytutorials.tistory.com/">
+        My T-Story Blog <img 
             src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mytutorials.tistory.com/"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
+  </a>
 
-- English Blog
-    <a href="https://hayoung.hashnode.dev/">
-        <img 
-            src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mytutorials.tistory.com/"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
-
+- I'm a maintainer of [Road of Coder](https://github.com/Road-of-CODEr)
+    - [CSS GRID Seminar](https://github.com/Road-of-CODEr/we-hate-js/blob/master/Front-End/tips/css-grid.md)
+    - [we-hate-js](https://github.com/Road-of-CODEr/we-hate-js/tree/master/JavaScript)
+        - [호이스팅/hoisting](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/hoisting.md)
+        - [데이터 타입/data type](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/DataType.md)
+        - [실행 컨텍스트/ execution context](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/ExecutionContext.md)
+        - [this](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/this.md)
+        - [콜백함수/ callback](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/callback.md)
+        - [클로저 / closure](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/closure.md)
+        - [프로토타입 / prototype](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/prototype.md)
+    
+    ... and more
+    
 - 🔭 I’m currently working on ...
   - JavaScript / TypeScript
-  - Node.js 
   - React.js 
   - Next.js
+  - Node.js 
 
 <!--
 **hayoung0Lee/hayoung0Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
