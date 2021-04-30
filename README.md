@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayoung0Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/hayoung0Lee?style=social)
 
-<a href="https://mytutorials.tistory.com/">
+<a href="https://mytutorials.tistory.com/category/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EB%B0%B1%EC%88%98%EC%83%9D%ED%99%9C%2C%20%EB%8B%A4%EC%8B%9C%20%EB%B0%B1%EC%88%98%EA%B0%80%20%EB%90%98%EB%8B%A4%21/7.%20Projects">
 My T-Story Blog <img 
     src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mytutorials.tistory.com/"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
