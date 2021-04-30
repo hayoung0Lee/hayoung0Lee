@@ -2,17 +2,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayoung0Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/hayoung0Lee?style=social)
 
-- <a href="https://mytutorials.tistory.com/">
-        My T-Story Blog <img 
-            src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mytutorials.tistory.com/"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
+<a href="https://mytutorials.tistory.com/">
+My T-Story Blog <img 
+    src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mytutorials.tistory.com/"
+    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 - I'm a maintainer of [Road of Coder](https://github.com/Road-of-CODEr)
     - [CSS GRID Seminar](https://github.com/Road-of-CODEr/we-hate-js/blob/master/Front-End/tips/css-grid.md)
     - [we-hate-js](https://github.com/Road-of-CODEr/we-hate-js/tree/master/JavaScript)
-        - [호이스팅/hoisting](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/hoisting.md)
-        - [데이터 타입/data type](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/DataType.md)
+        - [호이스팅/ hoisting](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/hoisting.md)
+        - [데이터 타입/ data type](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/DataType.md)
         - [실행 컨텍스트/ execution context](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/ExecutionContext.md)
         - [this](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/this.md)
         - [콜백함수/ callback](https://github.com/Road-of-CODEr/we-hate-js/blob/master/JavaScript/callback.md)
