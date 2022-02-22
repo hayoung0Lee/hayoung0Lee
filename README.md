@@ -3,10 +3,12 @@
 ![](https://img.shields.io/github/followers/hayoung0Lee?style=social)
 
 ### My blog
-[Hayoung Techlog](https://hayoung-techlog.com/) 
-<img width="1134" alt="image" src="https://user-images.githubusercontent.com/70381940/155200397-0887870e-b4bf-4064-a567-d4ef07933a04.png">
+I'm running [Hayoung Techlog](https://hayoung-techlog.com/) to share what I learn. <br />
+Click [here](https://hayoung-techlog.com/about) to visit my Resume. 
 
-- [Medium Blog](https://medium.com/@hayoung0.lee), [T-Story Blog](https://mytutorials.tistory.com/category/Web%20Dev/5.%20Projects)
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/70381940/155200397-0887870e-b4bf-4064-a567-d4ef07933a04.png">
+
+- I ran two blogs in the past. Check these two blogs - [Medium Blog](https://medium.com/@hayoung0.lee), [T-Story Blog](https://mytutorials.tistory.com/category/Web%20Dev/5.%20Projects) - to see articles I wrote in the past!
 
  
 ### Additional Info
