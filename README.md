@@ -2,15 +2,33 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayoung0Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/hayoung0Lee?style=social)
 
-- [Medium Blog](https://medium.com/@hayoung0.lee)
-- [T-Story Blog](https://mytutorials.tistory.com/category/Web%20Dev/5.%20Projects)
+### My blog
+[Hayoung Techlog](https://hayoung-techlog.com/) 
+<img width="1134" alt="image" src="https://user-images.githubusercontent.com/70381940/155200397-0887870e-b4bf-4064-a567-d4ef07933a04.png">
+
+- [Medium Blog](https://medium.com/@hayoung0.lee), [T-Story Blog](https://mytutorials.tistory.com/category/Web%20Dev/5.%20Projects)
 
  
-- 🔭 I’m currently working on ...
-  - React.js 
-  - JavaScript / TypeScript / Clojure / ClojureScript 
-  - Redux / Reagent / Reframe
+### Additional Info
+- Twitter: https://twitter.com/hylee_dev
+- LinkedIn: https://www.linkedin.com/in/hayoung-lee-42808815a/
+
+### 🔭 I’m currently working on ...
+Currently working on a Next.js Project with Prisma. 
+- Recent blog articles
+  - [Postgres Setup with Docker in Next.js Project](https://hayoung-techlog.com/postgres-setup-with-docker-in-nextjs-project)
+  - [Implementing OAuth2 with Next-Auth(feat. Prisma, KakaoTalk)](https://hayoung-techlog.com/implementing-oauth2-with-next-authfeat-prisma-kakaotalk)
+  - [Read More](https://hayoung-techlog.com/) 
   
+### Stacks 
+- Frontend
+  - React
+  - Typescript/JavaScript
+  - Next.js
+- Backend
+  - Prisma
+  - Postgres
+  - Docker    
   
 
 <!--
